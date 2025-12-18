@@ -1,0 +1,6 @@
+streamlit>=1.30
+loguru>=0.7
+google-genai>=0.4
+pydantic>=2.0
+pydantic-settings>=2.0
+openpyxl>=3.1
